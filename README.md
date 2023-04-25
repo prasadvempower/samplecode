@@ -1,3 +1,1 @@
-# Laravel basic application with Registartion and login
-
-PRASAD
+# Laravel basic application with Registartion and login PRASAD
