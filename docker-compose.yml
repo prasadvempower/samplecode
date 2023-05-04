@@ -8,7 +8,7 @@ services:
         volumes:
             - .:/app
         ports:
-            - 8020:8000
+            - 8000:8000
         depends_on: 
             - db
 
@@ -32,4 +32,4 @@ services:
         volumes:
             - ./storage/dbdata:/var/lib/mysql
         ports:
-            - 3310:3306
+            - 3306:3306
